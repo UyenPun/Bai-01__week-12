@@ -1,1 +1,4 @@
-# Bai-01__week-12
+- Fullname: https://www.facebook.com/punpun2812
+- Date of birth: 28/01/2002
+- Class: k70B
+- Address: HNUE Xuan Thuy, Cau Giay, Ha Noi
